@@ -1,0 +1,18 @@
+body {
+	background: #333;
+	color: #ccc;
+	font-family: sans-serif;
+	padding: 0 1rem;
+}
+
+.book {
+	background: #222;
+	margin-bottom: 1rem;
+	padding: 1rem;
+	width: 23rem;
+}
+
+.book .title {
+	color: rgb(215, 215, 147);
+	font-size: 1.4rem;
+}
